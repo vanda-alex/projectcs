@@ -1,6 +1,5 @@
 import streamlit as st
 
-
 st.markdown(
     """
     <style>
@@ -18,3 +17,4 @@ st.markdown(
 # Optional: keep small column section for other content
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
+    st.write("Welcome to")
