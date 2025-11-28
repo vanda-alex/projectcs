@@ -17,4 +17,4 @@ st.markdown(
 #creating columns to center the welcome statement
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-  st.markdown("###Because googling 'chicken recipe' for the 47th time is exhausting. (H3)")
+  st.markdown("###Because googling 'chicken recipe' for the 47th time is exhausting.")
