@@ -8,7 +8,8 @@ with col2:
  st.write("Welcome to:")
  st.title("*COOKABLE*")
 # centering the slogan in the middle of the page using HTML
-    st.markdown(
+ 
+ st.markdown(
         "<h3 style='text-align:center'>Because Googling 'chicken recipe' for the 47th time is exhausting.</h3>",
         unsafe_allow_html=True,
     )
