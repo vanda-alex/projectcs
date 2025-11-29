@@ -18,3 +18,5 @@ st.markdown(
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
   st.markdown("### Because googling 'chicken recipe' for the 47th time is exhausting.")
+  st.markdown("---")
+  
