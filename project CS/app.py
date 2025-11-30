@@ -20,3 +20,4 @@ with col2:
   st.markdown("### Because googling 'chicken recipe' for the 47th time is exhausting.")
   st.markdown("---")
   
+  
